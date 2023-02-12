@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "consumer_flex_app"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 pandas = "^1.5.3"
 streamlit = "^1.18.0"
 clumper = "^0.2.15"
